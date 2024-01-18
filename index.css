@@ -1,0 +1,45 @@
+#header{
+    background-color: #fec107;
+}
+.hac{
+    font-weight: bolder;
+}
+
+#btn1{
+    background-color:#fec107 ;
+}
+#btn2{
+    background-color:#fec107 ;
+}
+#btn3{
+    background-color:#fec107 ;
+}
+#tablee{
+    background-color:#FBFCFC; 
+    
+}
+
+.btnh{
+    color:#d36832;
+}
+body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+.footer{
+    padding-left: 1rem;
+}
+.ft{
+    color:black;
+}
+#ch{
+    color:black;
+    font-weight: bold;
+}
+.copyright{
+    color:#2C3E50
+}
+#footbg{
+   background-color:#EAEDED;
+}
